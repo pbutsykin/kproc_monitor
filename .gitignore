@@ -1,0 +1,14 @@
+.*
+*.a
+*.ko
+*.o
+*.so
+*.mod.c
+*.order
+Module.symvers
+modules.builtin
+
+!.gitignore
+
+vpwn
+
